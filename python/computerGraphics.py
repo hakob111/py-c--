@@ -1,7 +1,7 @@
 from graph import *
 penColor('blue')
 brushColor('yellow')
-triangle()
+
 
 # penColor('red')
 # brushColor('green')
